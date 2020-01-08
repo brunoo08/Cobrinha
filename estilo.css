@@ -26,6 +26,7 @@ h5{
     border: 1px solid rgb(155, 158, 77);
     justify-self: center;
     padding: 0,0,0,0;
+    /* position: absolute; */
 }
 
 #perdeu{
@@ -46,18 +47,14 @@ h5{
     background-color: black;
 }
 
-#ponto{
+.ponto{
     max-width:7px;
     height:7px;
     background-color:black;
     margin:0;
-    left:105px;
-    top:105px;
     padding:0;
     display:block;
     position:relative;
-    /* top-max:210px;
-    top-min:0; */
 }
 
 #maca{
